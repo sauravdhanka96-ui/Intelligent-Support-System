@@ -14,3 +14,7 @@ This system automates the triage of IT support tickets using keyword-based prior
 
 ## My Vision for Technical Support
 As a Computer Applications graduate, I believe that the best technical support isn’t just about closing tickets—it’s about empathy and efficiency. I built this system to ensure that no critical issue is ever overlooked, allowing support teams to spend less time on manual sorting and more time providing high-quality help to users.
+## Future Roadmap
+* [ ] Integrate a database connector (SQL API) to persist ticket data.
+* [ ] Implement a command-line interface (CLI) for ticket entry.
+* [ ] Add unit testing for the triage logic.
